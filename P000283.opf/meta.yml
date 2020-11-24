@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG10241
   title: འཇུ་མི་ཕམ་གྱི་གསུང་འབུམ་ལས་དུས་འཁོར་གྱི་སྐོར།༼པོད་ཨེ་- ཝཾ།༽
-  volume: ''
+  volume:
+    5fa191d2908649b5b5e9367d37d1195e:
+      image_group_id: I1KG10243
+      title: Volume 1 of dus 'khor sgrub thabs snying po rab gsal sogs/
+      volume_number: 1
+      total_pages: 1146
+    25077672a2b04f72ae0d248fecc666b0:
+      image_group_id: I1KG10244
+      title: Volume 2 of dus 'khor sgrub thabs snying po rab gsal sogs/
+      volume_number: 2
+      total_pages: 996
   author: ''
+ebook_metadata:
+  title: འཇུ་མི་ཕམ་གྱི་གསུང་འབུམ་ལས་དུས་འཁོར་གྱི་སྐོར།༼པོད་ཨེ་- ཝཾ།༽
+  author: ''
+  sku: P000283
+  cover: cover.jpg
+  layers:
+  - pagination
